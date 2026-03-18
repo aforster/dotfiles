@@ -211,3 +211,8 @@ alias dbmu='spring rake db:migrate:up'
 
 # Homebrew
 alias brewu='brew update && brew upgrade && brew cleanup && brew doctor'
+
+# Andreas' stuff
+alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias fava="bash ~/fava.sh"
+alias venv="source /Users/afo/code/beanvest/.venv/bin/activate"
